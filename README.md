@@ -1,21 +1,23 @@
 # DeepLearningAbgabe
 Repository for the graded Exercise on deep learning from Urs Neumann
 
-The Documentation on revisting the Tutorials can be found at
+The documentation on revisting the tutorials can be found at: <br />
+[Revisiting the Tutorials](/TutorialRevisit.ipynb)
 
-
-
-
+The adaptation of the given task can be found at: <br />
+[Adaptation to Task](/DeepLearningTask.ipynb)
 
 
 ## Binder
-The Binder can be found here:
-
+The Binder for the Task-bound adaptation can be found here: <br />
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ursthejosh/DeepLearningAbgabe/HEAD?labpath=DL_Abgabe.ipynb)
+<br />
+<br />
+And the one for the tutorial-revisit can be found here: <br />
+<!-- TODO Binder for Tutorial-Revisit -->
 
 ## Contact:
 
+Urs Neumann - ursn[at]outlook.de
 
-### The ultimate Answer to life, the universe and everything (at least according to Deep Thought):
-
-What do you get if you multiply six by seven?
+So once you do know what the question actually is, you’ll know what the answer means.
