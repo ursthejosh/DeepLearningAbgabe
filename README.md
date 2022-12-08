@@ -14,7 +14,9 @@ The Binder for the Task-bound adaptation can be found here: <br />
 <br />
 <br />
 And the one for the tutorial-revisit can be found here: <br />
-<!-- TODO Binder for Tutorial-Revisit -->
+<!-- TODO Binder for Tutorial-Revisit-->
+<br />
+<br />
 
 ## Contact:
 
