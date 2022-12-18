@@ -10,11 +10,11 @@ The adaptation of the given task can be found at: <br />
 
 ## Binder
 The Binder for the Task-bound adaptation can be found here: <br />
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ursthejosh/DeepLearningAbgabe/HEAD?labpath=DL_Abgabe.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ursthejosh/DeepLearningAbgabe/HEAD?labpath=DeepLearningTask.ipynb)
 <br />
 <br />
 And the one for the tutorial-revisit can be found here: <br />
-<!-- TODO Binder for Tutorial-Revisit-->
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ursthejosh/DeepLearningAbgabe/HEAD?labpath=TutorialRevisit.ipynb)
 <br />
 <br />
 
